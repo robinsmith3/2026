@@ -1,4 +1,4 @@
-# Manually create and briadcast a BSV transaction to the network
+# Manually create and broadcast a BSV transaction to the network
 
 First stab at building a BSV transaction and broadcasting to the network
 
