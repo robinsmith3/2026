@@ -1,3 +1,6 @@
+!!!!NEVER POPULATE THIS CODE WITH A PRIVATE KEY!!!!
+!!!!ALWAYS USE ON AN AIR GAPPED MACHINE AND TRANSFER THE SIGNED TRANSACTION BY USB OR SIMILAR TO AN ONLINE MACHINE"
+
 # Manually create and broadcast a BSV transaction to the network
 
 First stab at building a BSV transaction and broadcasting to the network
