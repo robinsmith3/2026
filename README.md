@@ -2,6 +2,8 @@
 
 !!!!ALWAYS USE ON AN AIR GAPPED MACHINE AND TRANSFER THE SIGNED TRANSACTION BY USB OR SIMILAR TO AN ONLINE MACHINE"
 
+!!!NEVER REUSE AN ADDRESS - THINK PRIVACY!!!
+
 # Manually create and broadcast a BSV transaction to the network
 
 First stab at building a BSV transaction and broadcasting to the network
@@ -21,4 +23,4 @@ Fields you need to gather and fill out in the go file
 * input txid script pubkeyhash
 * vin value
 * receive address(to self) and vin(minus fee)
-* utxo private key (don not send out or allow off machine. delete when tx broadcast. preferably create the tx on an air gapped machine)
+* utxo private key (do not send out or allow off machine. delete when tx broadcast. preferably create the tx on an air gapped machine)
