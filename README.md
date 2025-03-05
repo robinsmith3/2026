@@ -19,7 +19,7 @@ If good, paste into the WoC broadcast tool
 Watch the tx on chain as it gets mined and confirmed for at least 6 tx's
 
 Fields you need to gather and fill out in the go file
-* inout txid
+* input txid
 * input txid script pubkeyhash
 * vin value
 * receive address(to self) and vin(minus fee)
